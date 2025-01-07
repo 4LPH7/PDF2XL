@@ -5,7 +5,8 @@
 This Python script extracts table data from a PDF file, cleans it, and writes the cleaned data into an Excel file with formatting applied. It uses the `pdfplumber` library to extract tables and the `openpyxl` library to create and format the Excel file.
 
 ---
-
+![Extracting-Table-from-PDF-1c-1024x600](https://github.com/user-attachments/assets/ee9f6bad-0f37-442b-a723-ea436ea8934d)
+---
 ## Features
 
 - **Extract Tables from PDF**: Extracts table data from a PDF file using `pdfplumber`.
